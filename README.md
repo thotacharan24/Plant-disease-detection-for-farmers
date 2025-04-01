@@ -1,1 +1,0 @@
-# Plant-disease-detection-for-farmers
